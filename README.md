@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy!👋
 
 <!--
 **BilalMohammed23/BilalMohammed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computational Fluid Dynamics researcher specializing in turbulence — DNS, LES, and 
-spectral/finite-volume methods. I recently completed my M.S. in Mechanical Engineering at the 
-University of Michigan, Ann Arbor, with a focus on turbulence modeling and high-fidelity simulation.
+Hey, this is Bilal Mohammed. I am a Mechanical Engineer and I graduated from the University of Michigan - Ann Arbor with focus in fluid mechanics. I like doing computational stuffs within fluid sciences. 
 
-Before grad school, I worked as a Product Design Engineer at Daimler Truck Innovation Center India, 
-where I worked on thermal simulation and harness/cable integration across the Freightliner, 
-Western Star, and FUSO platforms.
+Check out my projects in the Repositories. Feel free to reach out for any collaborations or discuss to any opportunities, as I am always interested in learning new things, especially in CFD.
 
-I build CFD solvers from scratch — spectral methods, Chebyshev transforms, FVM/FDM, and DNS — to 
-deeply understand the numerics behind turbulence, not just use existing tools. My long-term goal is 
-PhD-level research in turbulence physics and modeling.
+🔬 Currently working on,
+1. DNS via Semi-Implicit & Fractional Step methods
+2. Canonical Turbulence models for wall-bounded and jet flows -- Right now, I am learning the fundamentals of turbulence and soon I'll be coding this project using both DNS and RANS(First Time). In the mean time, I'll try to accomplish the first project.
 
-🔬 **Currently exploring:** DNS via Semi-Implicit & Fractional Step methods, turbulence models for 
-wall-bounded and jet flows
-
-📫 Reach me at: [your email/LinkedIn]
+📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
