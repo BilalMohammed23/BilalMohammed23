@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Hey, this is Bilal Mohammed🤓. I am a Mechanical Engineer and I graduated from the University of Michigan - Ann Arbor with focus in fluid mechanics. I like doing computational stuffs within fluid sciences. 
 
-Check out my projects in the Repositories. Feel free to reach out for any project collaborations or to discuss any opportunities, as I am always interested in learning new things, especially in CFD.
+I recently(May 2026) started my GitHub with a thought of sharing my work to the CFD community. Check out my projects in the Repositories. Feel free to reach out for any project collaborations or to discuss any opportunities, as I am always interested in learning new things, especially in CFD.
 
 🔬 Currently working on,
-1. DNS via Semi-Implicit & Fractional Step methods
+1. DNS via Semi-Implicit & Fractional Step methods for regular flows - will be implemented using canonical lid driven cavity setup.
 2. Canonical Turbulence models for wall-bounded and jet flows -- Right now, I am learning the fundamentals of turbulence and soon I'll be coding this project using both DNS and RANS(First Time). In the mean time, I'll try accomplishing the first one.
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
