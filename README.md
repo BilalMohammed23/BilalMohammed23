@@ -24,3 +24,5 @@ I recently(May 2026) started my GitHub with a thought of sharing my work to the 
 2. Canonical Turbulence models for wall-bounded and jet flows -- Right now, picking up the fundamentals, Target to complete - Dec 2026.
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
+
+Note: Most solvers here are written in MATLAB, my primary language for numerical work. I'm actively expanding into C++ for greater performance and scalability. 
