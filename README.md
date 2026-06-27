@@ -21,6 +21,6 @@ Check out my projects in the Repositories. Feel free to reach out for any collab
 
 🔬 Currently working on,
 1. DNS via Semi-Implicit & Fractional Step methods
-2. Canonical Turbulence models for wall-bounded and jet flows -- Right now, I am learning the fundamentals of turbulence and soon I'll be coding this project using both DNS and RANS(First Time). In the mean time, I'll try to accomplish the first project.
+2. Canonical Turbulence models for wall-bounded and jet flows -- Right now, I am learning the fundamentals of turbulence and soon I'll be coding this project using both DNS and RANS(First Time). In the mean time, I'll try accomplishing the first one.
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
