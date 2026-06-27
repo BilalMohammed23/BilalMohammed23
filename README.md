@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, this is Bilal Mohammed🤓. I am a Mechanical Engineer and I graduated from the University of Michigan - Ann Arbor with focus in fluid mechanics. I like doing computational stuffs within fluid sciences. 
 
-Check out my projects in the Repositories. Feel free to reach out for any collaborations or discuss to any opportunities, as I am always interested in learning new things, especially in CFD.
+Check out my projects in the Repositories. Feel free to reach out for any project collaborations or to discuss any opportunities, as I am always interested in learning new things, especially in CFD.
 
 🔬 Currently working on,
 1. DNS via Semi-Implicit & Fractional Step methods
