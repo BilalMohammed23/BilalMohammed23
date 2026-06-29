@@ -23,7 +23,7 @@ Feel free to reach out for any project collaborations or to discuss any opportun
 
 🔬 Currently working on,
 1. DNS via Semi-Implicit & Fractional Step methods - validated and implemented using canonical lid driven cavity setup.
-2. Turbulence flows of choice -- Right now in study phase - While Statistically Homogeneous Isotropic Turbulence model already been implemented, this project focuses on other canonical models of choice.
+2. Turbulence flows -- Right now in study phase - While Statistically Homogeneous Isotropic Turbulence model already been implemented, this project focuses on other canonical models of choice.
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
 
