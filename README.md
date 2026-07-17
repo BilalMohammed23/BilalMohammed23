@@ -22,7 +22,10 @@ I recently(May 2026) started my GitHub with a thought of sharing my work to the 
 Feel free to reach out for any project collaborations or to discuss any opportunities, as I am always interested in learning new things, especially in CFD.
 
 🔬 Currently working on,
+
 1. Semi-Implicit✅ & Fractional Step methods based Solvers - validated and implemented using canonical lid driven cavity setup.
+   (In this case it refects DNS level resolution because we directly evaluate values at each time step using predictor-corrector method & by not using any relaxation factors - iterations based convergence)
+   
 2. Turbulence flows -- Right now in study phase - While Statistically Homogeneous Isotropic Turbulence model already been implemented, this project focuses on other canonical models of choice.
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
