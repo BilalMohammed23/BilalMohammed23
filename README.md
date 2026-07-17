@@ -24,7 +24,7 @@ Feel free to reach out for any project collaborations or to discuss any opportun
 🔬 Currently working on,
 
 1. Semi-Implicit✅ & Fractional Step methods based Solvers - validated and implemented using canonical lid driven cavity setup.
-   (In this case it refects DNS level resolution because we directly evaluate values at each time step using predictor-corrector method & by not using any relaxation factors - iterations based convergence)
+   (In this case it refects DNS level resolution because we directly evaluate values at each time step using predictor-corrector method & by not using any relaxation factors nor iterations based convergence)
    
 2. Turbulence flows -- Right now in study phase - While Statistically Homogeneous Isotropic Turbulence model already been implemented, this project focuses on other canonical models of choice.
 
