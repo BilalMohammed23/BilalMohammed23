@@ -30,4 +30,4 @@ Feel free to reach out for any project collaborations or to discuss any opportun
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
 
-Note: Most solvers here are written in MATLAB, my primary language for numerical work. I'm actively expanding into C++ for greater performance and scalability. 
+Note: Most solvers here are written in MATLAB, my primary language for numerical work. I'm actively expanding my knowledge into C++ for greater performance and scalability.
