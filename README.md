@@ -28,7 +28,7 @@ Feel free to reach out for any project collaborations or to discuss any opportun
    
 2. Turbulent flows -- Right now in study phase - While Statistically Homogeneous Isotropic Turbulence model already been implemented, this project focuses on other canonical models of choice.
 
-3. Hybrid unstructured fully implicit solver(Got the spark of trying this out after successfully implementing (1) solvers).
+3.  Immersed-Boundary Finite-Volume Method(Got the spark of trying this out after successfully implementing (1) solvers).
 
 📫 Reach me at: bilalmd@umich.edu (or) https://www.linkedin.com/in/bilal-mohammed-bba20819b/
 
